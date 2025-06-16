@@ -2,7 +2,7 @@
 # 📘 BÁO CÁO NHÓM – GITHUB SKILLS
 
 ## 👥 Thành viên nhóm:
-- Nguyễn Thanh Quân – MSSV: 220007066 (Leader)
+- Nguyễn Thanh QuAn – MSSV: 220007066 (Leader)
 - Võ Tấn Phát – MSSV: 2200007239
 - Đặng Nguyễn Hữu Trí – MSSV: 2200008152
 
